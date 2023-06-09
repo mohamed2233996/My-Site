@@ -310,10 +310,10 @@ text-align: left;
     height: 25% !important;
 }
 .prev{
-    background-image: url(/img/prev.png) !important;
+    background-image: url(img/prev.png) !important;
 }
 .next{
-    background-image: url(/img/next.png) !important;
+    background-image: url(img/next.png) !important;
 }
 
 .Review-page{
@@ -770,7 +770,7 @@ text-align: left;
 /* //////// */
 
 .back-img{
-    background: url(/img/portfolio-7.jpg)  center no-repeat fixed;
+    background: url(img/portfolio-7.jpg)  center no-repeat fixed;
 }
 
 .back-img .btn:hover{
@@ -808,7 +808,7 @@ text-align: left;
 /* /////.// */
 
 .back-img-2{
-    background: url(/img/portfolio-8.jpg)  center no-repeat fixed;
+    background: url(img/portfolio-8.jpg)  center no-repeat fixed;
 }
 
 .back-img-2 .icon-div{
